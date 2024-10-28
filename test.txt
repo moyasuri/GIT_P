@@ -12,4 +12,8 @@ eee
 
 1-2
 mymy
+<<<<<<< HEAD
 
+=======
+mymymy
+>>>>>>> 6755e17 (mymymy)
